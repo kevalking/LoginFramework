@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+
+<web-app>
+    <display-name>Login Framework</display-name>
+    <servlet>
+        <servlet-name>LoginFramework</servlet-name>
+        <servlet-class>Login</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginFramework</servlet-name>
+        <url-pattern>/LoginFramework</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>logout</servlet-name>
+        <servlet-class>Logout</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>logout</servlet-name>
+        <url-pattern>/logout</url-pattern>
+    </servlet-mapping>
+</web-app>

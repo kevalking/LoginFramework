@@ -1,0 +1,121 @@
+*
+{
+	padding:0px;
+	margin:0px;
+}
+#heading
+{
+    margin-top:140px;
+    margin-left:170px;
+    font-size:40px;
+    color:rgb(117,117,117);
+}
+#left
+{
+    margin-top:40px;
+    margin-left:170px;
+    width:350px;
+    height: 400px;
+    
+}
+#center
+{
+    margin-top: -400px;
+    margin-left:550px;
+    width:100px;
+    height: 400px;
+    
+}
+#right
+{
+    float:right;
+    margin-right:100px;
+    margin-top: -550px;
+    width:580px;
+    height: 400px;
+}
+#txt
+{
+    font-size:20px;
+    color:rgb(70,70,70);
+}
+#pwd
+{
+    margin-top:20px;
+    font-size:20px;
+    color:rgb(70,70,70);
+}
+#txtbox
+{
+    margin-top:10px;
+    font-size: 20px;
+    width:300px;
+}
+#link
+{
+    margin-top:40px;
+    font-size:20px;
+}
+a
+{
+    color:rgb(0,128,255);
+    text-decoration:none;
+}
+#login_logo
+{
+    float:right;
+}
+#fw_logo
+{
+    margin-top:40px;
+    float:right;
+}
+#btn
+{
+    margin-top: 30px;
+    margin-left: 200px;
+    font-size:20px;
+    height:30px;
+    width:90px;
+    background-color:rgb(0,82,164);
+    color:white;
+    border-radius:10px;
+}
+#btn_regi
+{
+    margin-top:30px;
+    margin-left:80px;
+    font-size: 20px;
+    height: 30px;
+    width: 150px;
+    color:rgb(0,128,255);
+    border:red 1px solid;
+}
+
+table
+{
+    margin-top:30px;
+    border:1px gray solid;
+    border-radius:10px;
+    font-size:20px;
+}
+th
+{
+   padding:15px;
+}
+#th_lbl
+{
+    float:left;
+}
+#btn_r
+{
+    font-size:20px;
+    height:30px;
+    width:150px;
+}
+#logout
+{
+    float:right;
+    margin-right: 50px;
+    font-size:30px;
+}
